@@ -1,7 +1,5 @@
 <p align="center"><a href="https://christianpreston.com"><img src="assets/banner.png" alt="horizon hero banner" /></a></p>
 
-<br />
-
 ### Hello 👋, I am Christian Preston
 
 A self taught full-stack engineer. I started my coding journey around 13 years old and never stopped 😎
