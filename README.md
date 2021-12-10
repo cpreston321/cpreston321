@@ -17,8 +17,12 @@ A self taught full-stack engineer. I started my coding journey around 13 years o
   - ✨[Marvel.ai](https://www.veritone.com/applications/marvelai)
     - A hyper-realistic synthetic Voice as a Service (VaaS) solution that allows anyone to create, manage, share, and monetize professional-quality synthetic voice, easily personalized into different genders, languages, dialects, accents, and more.
   - ✨ [National Governors Association](https://www.nga.org/)
-  - ✨ [Naleo Educational Fund](https://naleo.org/)
+  - ✨ [NALEO Educational Fund](https://naleo.org/)
   - And more... Checkout my site for additional projects. [here](https://christianpreston.com)
+
+| **Stats**                                                                                                                                                                |                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Repos](https://api.githubtrends.io/user/svg/cpreston321/repos?include_private=true&time_range=one_year&use_percent=false&theme=dark)](https://githubtrends.io) | [![GitHub Trends](https://api.githubtrends.io/user/svg/cpreston321/langs?include_private=true&time_range=one_year&theme=dark)](https://githubtrends.io) |
 
 **Languages and Tools:**
 
