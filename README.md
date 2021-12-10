@@ -20,9 +20,10 @@ A self taught full-stack engineer. I started my coding journey around 13 years o
   - ✨ [NALEO Educational Fund](https://naleo.org/)
   - And more... Checkout my site for additional projects. [here](https://christianpreston.com)
 
-| **Stats**                                                                                                                                                                |                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Repos](https://api.githubtrends.io/user/svg/cpreston321/repos?include_private=true&time_range=one_year&use_percent=false&theme=dark)](https://githubtrends.io) | [![GitHub Trends](https://api.githubtrends.io/user/svg/cpreston321/langs?include_private=true&time_range=one_year&theme=dark)](https://githubtrends.io) |
+**Stats**
+
+[![GitHub Repos](https://api.githubtrends.io/user/svg/cpreston321/repos?include_private=true&time_range=one_year&use_percent=false&theme=dark)](https://githubtrends.io)
+[![GitHub Trends](https://api.githubtrends.io/user/svg/cpreston321/langs?include_private=true&time_range=one_year&theme=dark)](https://githubtrends.io)
 
 **Languages and Tools:**
 
