@@ -12,7 +12,7 @@ A self taught full-stack engineer. I started my coding journey around 13 years o
     - E-Commerce Site for Discs Golf Enthusiast.
   - ✨ [DiscountFilters](https://discountfilters.com)
     - E-Commerce Site for Air/Water filters.
-  - ✨[Marvel.ai](https://www.veritone.com/applications/marvelai)
+  - ✨[Veritone Voice](https://www.veritone.com/applications/veritone-voice/)
     - A hyper-realistic synthetic Voice as a Service (VaaS) solution that allows anyone to create, manage, share, and monetize professional-quality synthetic voice, easily personalized into different genders, languages, dialects, accents, and more.
   - ✨ [National Governors Association](https://www.nga.org/)
   - ✨ [NALEO Educational Fund](https://naleo.org/)
