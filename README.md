@@ -8,9 +8,9 @@ A self taught full-stack engineer. I started my coding journey around 13 years o
 
 - 💼 Software Engineer at [Veritone](https://veritone.com)
 - 📂 Top Projects I have worked on.
-  - ✨ [Rogue Discs](https://rougediscs.com)
+  - ✨ [Rogue Discs](https://roguediscs.com/)
     - E-Commerce Site for Discs Golf Enthusiast.
-  - ✨ [DiscountFilters](https://discountfilters.com)
+  - ✨ [DiscountFilters](https://discountfilters.com/)
     - E-Commerce Site for Air/Water filters.
   - ✨[Veritone Voice](https://www.veritone.com/applications/veritone-voice/)
     - A hyper-realistic synthetic Voice as a Service (VaaS) solution that allows anyone to create, manage, share, and monetize professional-quality synthetic voice, easily personalized into different genders, languages, dialects, accents, and more.
