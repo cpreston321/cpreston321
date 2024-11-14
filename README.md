@@ -17,6 +17,10 @@ I am a self taught ***_Software Engineer_***. I started my coding journey around
   
 And more! Checkout my site for additional projects [here](https://christianpreston.com).
 
+## **Nuxter**
+
+[![cpreston321 Nuxter profile](https://nuxters.nuxt.com/card/cpreston321/og.png)](https://nuxters.nuxt.com/cpreston321)
+
 ## **Stats**
 
 [![GitHub Repos](https://api.githubtrends.io/user/svg/cpreston321/repos?include_private=true&time_range=one_year&use_percent=false&theme=dark)](https://githubtrends.io)
